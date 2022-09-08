@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "9612dd95-bf57-4baa-b97a-65a4ed9b79ac",
+		"name": "20220902",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22284542"
+	},
+	"item": [
+		{
+			"name": "Postman-echo.com/get",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "1",
+							"value": "1",
+							"type": "text",
+							"disabled": true
+						},
+						{
+							"key": "12",
+							"value": "12水果蛋糕v  对方国内宏观经济就的经济都很出彩干净后果公共机构九个国家和国际的关系听歌认同逢人",
+							"type": "text"
+						},
+						{
+							"key": "\n\n",
+							"value": "\n\n",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "Postman-echo.com/get",
+					"host": [
+						"Postman-echo",
+						"com"
+					],
+					"path": [
+						"get"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
